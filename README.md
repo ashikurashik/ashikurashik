@@ -24,6 +24,16 @@ A passionate Front-End  developer from Bangladesh
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
+
+### 🌐 Connect with me:
+
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AshikurMoh25880)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.ashikur.rahman.509234)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/md-ashikur-rahman-50ad58/)
+[![Medium](https://img.shields.io/badge/Medium-Read-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashik.rpir1)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@ashikurashik)
+
+
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ashikurashik&color=blue)
