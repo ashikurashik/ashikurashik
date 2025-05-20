@@ -10,8 +10,8 @@ A passionate Front-End  developer from Bangladesh
 
 ### 🌐 Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://linkedin.com/)](https://www.linkedin.com/in/md-ashikur-rahman-50ad58/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][(https://facebook.com/)](https://www.facebook.com/md.ashikur.rahman.509234)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/md.ashikur.rahman.509234)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/)
 
@@ -30,3 +30,4 @@ A passionate Front-End  developer from Bangladesh
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=monzuralam&color=blue)
+
