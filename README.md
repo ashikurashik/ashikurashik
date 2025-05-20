@@ -31,8 +31,6 @@ A passionate Front-End  developer from Bangladesh
 
 
 ### 🛠️ Languages and Tools:
-### 🛠️ Languages and Tools:
-
 <img src="https://img.icons8.com/ios-filled/30/000000/bootstrap.png" alt="Bootstrap"/>
 <img src="https://img.icons8.com/ios-filled/30/1572B6/css3.png" alt="CSS3"/>
 <img src="https://img.icons8.com/ios-filled/30/E34F26/html-5.png" alt="HTML5"/>
