@@ -9,11 +9,26 @@ A passionate Front-End  developer from Bangladesh
 - ⚡ Fun fact: I'm funny!
 
 ### 🌐 Connect with me:
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AshikurMoh25880)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/md-ashikur-rahman-50ad58/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/md.ashikur.rahman.509234)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashik.rpir1)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@ashikurashik)
+
+<a href="https://twitter.com/AshikurMoh25880" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/30/1DA1F2/twitter.png" alt="Twitter"/>
+</a>
+<a href="https://linkedin.com/md-ashikur-rahman-50ad58/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn"/>
+</a>
+<a href="https://stackoverflow.com/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/30/FF9900/stackoverflow.png" alt="Stack Overflow"/>
+</a>
+<a href="https://www.facebook.com/md.ashikur.rahman.509234" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/30/1877F2/facebook-new.png" alt="Facebook"/>
+</a>
+<a href="https://medium.com/@ashik.rpir1" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/30/000000/medium-logo.png" alt="Medium"/>
+</a>
+<a href="https://hashnode.com/@ashikurashik" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/30/2962FF/hashnode.png" alt="Hashnode"/>
+</a>
+
 
 ### 🛠️ Languages and Tools:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
