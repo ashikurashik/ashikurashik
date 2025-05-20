@@ -31,14 +31,18 @@ A passionate Front-End  developer from Bangladesh
 
 
 ### 🛠️ Languages and Tools:
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+### 🛠️ Languages and Tools:
 
----
+<img src="https://img.icons8.com/ios-filled/30/000000/bootstrap.png" alt="Bootstrap"/>
+<img src="https://img.icons8.com/ios-filled/30/1572B6/css3.png" alt="CSS3"/>
+<img src="https://img.icons8.com/ios-filled/30/E34F26/html-5.png" alt="HTML5"/>
+<img src="https://img.icons8.com/ios-filled/30/F05032/git.png" alt="Git"/>
+<img src="https://img.icons8.com/ios-filled/30/000000/linux.png" alt="Linux"/>
+<img src="https://img.icons8.com/ios-filled/30/4479A1/mysql-logo.png" alt="MySQL"/>
+<img src="https://img.icons8.com/ios-filled/30/31A8FF/adobe-photoshop.png" alt="Photoshop"/>
+<img src="https://img.icons8.com/ios-filled/30/777BB4/php-logo.png" alt="PHP"/>
+<img src="https://img.icons8.com/ios-filled/30/CC6699/sass.png" alt="SASS"/>
+<img src="https://img.icons8.com/ios-filled/30/38B2AC/tailwindcss.png" alt="Tailwind CSS"/>
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ashikurashik&color=blue)
