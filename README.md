@@ -28,3 +28,11 @@ A passionate Front-End  developer from Bangladesh
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ashikurashik&color=blue)
 
+
+### 🌐 Connect with me:
+
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/AshikurMoh25880)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/md.ashikur.rahman.509234)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/md-ashikur-rahman-50ad58/)
+[![Medium](https://img.shields.io/badge/Medium-Read-black?style=plastic&logo=medium&logoColor=white)](https://medium.com/@ashik.rpi)
+
